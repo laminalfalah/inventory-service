@@ -2,8 +2,8 @@
 
 [![Sonarcloud Analyze][github-actions-sonarqube]][github-actions-url] 
 
-[github-actions-sonarqube]: https://github.com/laminalfalah/inventory-keycloak/actions/workflows/sonarqube.yml/badge.svg
-[github-actions-url]: https://github.com/laminalfalah/inventory-keycloak/actions
+[github-actions-sonarqube]: https://github.com/laminalfalah/inventory-service/actions/workflows/sonarqube.yml/badge.svg
+[github-actions-url]: https://github.com/laminalfalah/inventory-service/actions
 
 ### Analysis of the Backend Framework
 [![quality-gate][sonar-quality-gate]][sonar-url]
